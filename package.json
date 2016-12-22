@@ -1,0 +1,28 @@
+{
+  "name": "qcos",
+  "version": "2.0.0",
+  "description": "node sdk for qcloud ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gongzili456/qcos.git"
+  },
+  "keywords": [
+    "qcloud"
+  ],
+  "author": "tencentyun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gongzili456/qcos/issues"
+  },
+  "homepage": "https://github.com/gongzili456/qcos",
+  "engines": [
+    "node >= 0.4.7"
+  ],
+  "dependencies": {
+    "formstream": "0.0.7"
+  }
+}
